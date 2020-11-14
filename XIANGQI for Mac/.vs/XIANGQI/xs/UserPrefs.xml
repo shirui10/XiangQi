@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{373AAAF3-E28D-462B-BF55-8069998CD7BC}|Default">
+  <MonoDevelop.Ide.ItemProperties.Control PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.View PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Model/Board.cs">
+    <Files>
+      <File FileName="Control/Control.cs" Line="2" Column="13" />
+      <File FileName="Display/View.cs" Line="1" Column="1" />
+      <File FileName="Control/PieceControl/Soldier.cs" />
+      <File FileName="Model/Board.cs" Line="122" Column="34" />
+      <File FileName="Model/Pieces.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XIANGQI" expanded="True">
+            <Node name="Control" expanded="True">
+              <Node name="PieceControl" expanded="True" />
+            </Node>
+            <Node name="Model" expanded="True">
+              <Node name="Board.cs" selected="True" />
+            </Node>
+            <Node name="View" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

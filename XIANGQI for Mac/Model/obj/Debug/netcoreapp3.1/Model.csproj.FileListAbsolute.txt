@@ -1,0 +1,36 @@
+/Users/shirui/Desktop/XIANGQI/Model/bin/Debug/netcoreapp3.1/Model.deps.json
+/Users/shirui/Desktop/XIANGQI/Model/bin/Debug/netcoreapp3.1/Model.runtimeconfig.json
+/Users/shirui/Desktop/XIANGQI/Model/bin/Debug/netcoreapp3.1/Model.runtimeconfig.dev.json
+/Users/shirui/Desktop/XIANGQI/Model/bin/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/XIANGQI/Model/bin/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.csprojAssemblyReference.cache
+/Users/shirui/Desktop/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfoInputs.cache
+/Users/shirui/Desktop/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfo.cs
+/Users/shirui/Desktop/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.csproj.CoreCompileInputs.cache
+/Users/shirui/Desktop/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.genruntimeconfig.cache
+/Users/shirui/Desktop/XIANGQI for Mac/Model/bin/Debug/netcoreapp3.1/Model.deps.json
+/Users/shirui/Desktop/XIANGQI for Mac/Model/bin/Debug/netcoreapp3.1/Model.runtimeconfig.json
+/Users/shirui/Desktop/XIANGQI for Mac/Model/bin/Debug/netcoreapp3.1/Model.runtimeconfig.dev.json
+/Users/shirui/Desktop/XIANGQI for Mac/Model/bin/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/XIANGQI for Mac/Model/bin/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/XIANGQI for Mac/Model/obj/Debug/netcoreapp3.1/Model.csprojAssemblyReference.cache
+/Users/shirui/Desktop/XIANGQI for Mac/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfoInputs.cache
+/Users/shirui/Desktop/XIANGQI for Mac/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfo.cs
+/Users/shirui/Desktop/XIANGQI for Mac/Model/obj/Debug/netcoreapp3.1/Model.csproj.CoreCompileInputs.cache
+/Users/shirui/Desktop/XIANGQI for Mac/Model/obj/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/XIANGQI for Mac/Model/obj/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/XIANGQI for Mac/Model/obj/Debug/netcoreapp3.1/Model.genruntimeconfig.cache
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/bin/Debug/netcoreapp3.1/Model.deps.json
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/bin/Debug/netcoreapp3.1/Model.runtimeconfig.json
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/bin/Debug/netcoreapp3.1/Model.runtimeconfig.dev.json
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/bin/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/bin/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/obj/Debug/netcoreapp3.1/Model.csprojAssemblyReference.cache
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfoInputs.cache
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfo.cs
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/obj/Debug/netcoreapp3.1/Model.csproj.CoreCompileInputs.cache
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/obj/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/obj/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/obj/Debug/netcoreapp3.1/Model.genruntimeconfig.cache
