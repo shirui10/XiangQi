@@ -6,15 +6,15 @@ namespace Model
     {
         public enum Player    //分为红黑两方
         {
-            god,            //中间方
             red,
             blue,
+            blank        //中间方
         };
 
 
         public enum Piecetype    //分为不同的棋子类型
         {
-            god,        //中间方的，即棋子以外的空格，方便棋子去移动
+            blank,        //中间方的，即棋子以外的空格，方便棋子去移动
             jiang,
             che,
             ma,

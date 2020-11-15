@@ -17,7 +17,7 @@ namespace Control
 
                 for (k = i + 1; k < j; k++)
                 {
-                    if (Matrix[X, k].side != Chess.Player.god)
+                    if (Matrix[X, k].side != Chess.Player.blank)
                     {
                         return false;
                     }
@@ -31,7 +31,7 @@ namespace Control
 
                 for (k = i + 1; k < j; k++)
                 {
-                    if (Matrix[k, Y].side != Chess.Player.god)
+                    if (Matrix[k, Y].side != Chess.Player.blank)
                     {
                         return false;
                     }

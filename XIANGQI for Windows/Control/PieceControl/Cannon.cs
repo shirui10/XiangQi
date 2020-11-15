@@ -18,7 +18,7 @@ namespace Control
 
                 for (k = i + 1; k < j; k++)
                 {
-                    if (Matrix[X, k].side != Chess.Player.god)
+                    if (Matrix[X, k].side != Chess.Player.blank)
                     {
                         n++;
                     }
@@ -37,7 +37,7 @@ namespace Control
 
                 for (k = i + 1; k < j; k++)
                 {
-                    if (Matrix[k, Y].side != Chess.Player.god)
+                    if (Matrix[k, Y].side != Chess.Player.blank)
                     {
                         n++;
                     }
@@ -53,12 +53,12 @@ namespace Control
                 return false;
             }
 
-            if (n == 0 && Matrix[X, Y].side != Chess.Player.god)
+            if (n == 0 && Matrix[X, Y].side != Chess.Player.blank)
             {
                 return false;
             }
 
-            if (n == 1 && Matrix[X, Y].side == Chess.Player.god)
+            if (n == 1 && Matrix[X, Y].side == Chess.Player.blank)
             {
                 return false;
             }

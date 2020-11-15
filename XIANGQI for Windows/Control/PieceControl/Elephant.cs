@@ -29,7 +29,7 @@ namespace Control
                 return false;
             }
 
-            if (Matrix[(X + chozenX) / 2, (Y + chozenY) / 2].side != Chess.Player.god)
+            if (Matrix[(X + chozenX) / 2, (Y + chozenY) / 2].side != Chess.Player.blank)
             {
                 return false;
             }

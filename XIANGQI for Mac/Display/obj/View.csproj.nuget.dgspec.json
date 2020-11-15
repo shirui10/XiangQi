@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Display/View.csproj": {}
+    "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Display/View.csproj": {}
   },
   "projects": {
-    "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Control/Control.csproj": {
+    "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Control/Control.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Control/Control.csproj",
+        "projectUniqueName": "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Control/Control.csproj",
         "projectName": "Control",
-        "projectPath": "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Control/Control.csproj",
+        "projectPath": "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Control/Control.csproj",
         "packagesPath": "/Users/shirui/.nuget/packages/",
-        "outputPath": "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Control/obj/",
+        "outputPath": "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Control/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shirui/.config/NuGet/NuGet.Config"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/Model.csproj": {
-                "projectPath": "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/Model.csproj"
+              "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Model/Model.csproj": {
+                "projectPath": "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Model/Model.csproj"
               }
             }
           }
@@ -58,14 +58,14 @@
         }
       }
     },
-    "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Display/View.csproj": {
+    "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Display/View.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Display/View.csproj",
+        "projectUniqueName": "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Display/View.csproj",
         "projectName": "View",
-        "projectPath": "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Display/View.csproj",
+        "projectPath": "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Display/View.csproj",
         "packagesPath": "/Users/shirui/.nuget/packages/",
-        "outputPath": "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Display/obj/",
+        "outputPath": "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Display/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shirui/.config/NuGet/NuGet.Config"
@@ -79,11 +79,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Control/Control.csproj": {
-                "projectPath": "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Control/Control.csproj"
+              "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Control/Control.csproj": {
+                "projectPath": "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Control/Control.csproj"
               },
-              "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/Model.csproj": {
-                "projectPath": "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/Model.csproj"
+              "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Model/Model.csproj": {
+                "projectPath": "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Model/Model.csproj"
               }
             }
           }
@@ -115,14 +115,14 @@
         }
       }
     },
-    "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/Model.csproj": {
+    "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Model/Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/Model.csproj",
+        "projectUniqueName": "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Model/Model.csproj",
         "projectName": "Model",
-        "projectPath": "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/Model.csproj",
+        "projectPath": "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Model/Model.csproj",
         "packagesPath": "/Users/shirui/.nuget/packages/",
-        "outputPath": "/Users/shirui/Desktop/C# 象棋/XIANGQI for Mac/Model/obj/",
+        "outputPath": "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Mac/Model/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shirui/.config/NuGet/NuGet.Config"

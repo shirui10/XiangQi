@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iTXFBBFKAjiTkRyuBzfMLdgmCv+w/+M5efhPm05N43oHo3dRYCR5ABlN/R23vg3Q4/5KU1XWtvUbmsxqw4d9TQ==",
+  "dgSpecHash": "mC9ZFKeGjkNR40u07bRwd7J3rSMVNqYM93P1HXbbv5IzevY/f6xQ65VKcCWE/IgxYwg14oHlFT7vpymxm4XDnA==",
   "success": true,
-  "projectFilePath": "/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Model/Model.csproj",
+  "projectFilePath": "/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Model/Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

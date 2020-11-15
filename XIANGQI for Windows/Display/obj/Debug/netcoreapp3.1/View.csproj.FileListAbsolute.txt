@@ -52,3 +52,20 @@ G:/XIANGQI的副本/Display/obj/Debug/netcoreapp3.1/View.genruntimeconfig.cache
 /Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Display/obj/Debug/netcoreapp3.1/View.dll
 /Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Display/obj/Debug/netcoreapp3.1/View.pdb
 /Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Display/obj/Debug/netcoreapp3.1/View.genruntimeconfig.cache
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Display/bin/Debug/netcoreapp3.1/View.deps.json
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Display/bin/Debug/netcoreapp3.1/View.runtimeconfig.json
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Display/bin/Debug/netcoreapp3.1/View.runtimeconfig.dev.json
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Display/bin/Debug/netcoreapp3.1/View.dll
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Display/bin/Debug/netcoreapp3.1/View.pdb
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Display/bin/Debug/netcoreapp3.1/Control.dll
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Display/bin/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Display/bin/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Display/bin/Debug/netcoreapp3.1/Control.pdb
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Display/obj/Debug/netcoreapp3.1/View.csprojAssemblyReference.cache
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Display/obj/Debug/netcoreapp3.1/View.AssemblyInfoInputs.cache
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Display/obj/Debug/netcoreapp3.1/View.AssemblyInfo.cs
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Display/obj/Debug/netcoreapp3.1/View.csproj.CoreCompileInputs.cache
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Display/obj/Debug/netcoreapp3.1/View.csproj.CopyComplete
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Display/obj/Debug/netcoreapp3.1/View.dll
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Display/obj/Debug/netcoreapp3.1/View.pdb
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Display/obj/Debug/netcoreapp3.1/View.genruntimeconfig.cache

@@ -4,10 +4,10 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Model/Board.cs">
     <Files>
       <File FileName="Control/Control.cs" Line="2" Column="13" />
-      <File FileName="Display/View.cs" Line="1" Column="1" />
+      <File FileName="Display/View.cs" />
       <File FileName="Control/PieceControl/Soldier.cs" />
       <File FileName="Model/Board.cs" Line="122" Column="34" />
-      <File FileName="Model/Pieces.cs" Line="1" Column="1" />
+      <File FileName="Model/Pieces.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

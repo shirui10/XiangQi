@@ -82,8 +82,8 @@ namespace Model
                 for (int j = 0; j < 17; j++)
                 {
                     Matrix[i, j] = new Chess();
-                    Matrix[i, j].side = Chess.Player.god;
-                    Matrix[i, j].type = Chess.Piecetype.god;
+                    Matrix[i, j].side = Chess.Player.blank;
+                    Matrix[i, j].type = Chess.Piecetype.blank;
                 }
             }
 

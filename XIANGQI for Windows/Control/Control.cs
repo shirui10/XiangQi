@@ -168,7 +168,7 @@ namespace Control
 
         public int CheckPiece(int chozenX, int chozenY, Chess[,] Matrix)                //检测选中的是否棋子
         {
-            if (Matrix[chozenX, chozenY].type == Chess.Piecetype.god)
+            if (Matrix[chozenX, chozenY].type == Chess.Piecetype.blank)
             {
                 return 0;
             }
@@ -203,8 +203,8 @@ namespace Control
         {
             Matrix[X, Y].side = Matrix[chozenX, chozenY].side;
             Matrix[X, Y].type = Matrix[chozenX, chozenY].type;
-            Matrix[chozenX, chozenY].side = Chess.Player.god;
-            Matrix[chozenX, chozenY].type = Chess.Piecetype.god;
+            Matrix[chozenX, chozenY].side = Chess.Player.blank;
+            Matrix[chozenX, chozenY].type = Chess.Piecetype.blank;
         }
     }
 }
